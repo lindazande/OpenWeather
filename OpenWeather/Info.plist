@@ -62,5 +62,17 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-SemiBold.ttf</string>
+	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Need your location to obtain weather for you</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Need your location to obtain weather for you</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need your location to obtain weather for you</string>
 </dict>
 </plist>
